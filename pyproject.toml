@@ -1,0 +1,11 @@
+[project]
+name = "crew-learn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "crewai>=0.152.0",
+    "notebook>=7.4.5",
+    "tools>=1.0.2",
+]
